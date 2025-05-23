@@ -1,4 +1,4 @@
-Here are the contents for your `README.md` and `requirements.txt` files for your **Image Watermark App** built with Python, Tkinter, and Pillow:
+
 
 ---
 
